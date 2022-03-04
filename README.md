@@ -16,9 +16,9 @@
 I design and develop interfaces and call myself a frontend designer. I‘m working as a product designer in the last 7 years. My main interest is creating design systems and it’s components — UX guidelines, UI kits and libraries.
 
 ## 🛠️ Technologies and Tools:
-<img src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white" alt="Made with GraphQL">
-<img src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white" alt="Made with GraphQL">
-<img src="https://img.shields.io/badge/NodeJS-blue?logo=Node.js&logoColor=white" alt="Made with GraphQL">
+<img src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white" alt="Made with GraphQL"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?logo=TypeScript&logoColor=white" alt="Made with GraphQL"/>
+<img src="https://img.shields.io/badge/NodeJS-blue?logo=Node.js&logoColor=white" alt="Made with GraphQL"/>
 <img src="https://img.shields.io/badge/Socket.io-blue?logo=Socket.io&logoColor=white" alt="Made with GraphQL">
 <img src="https://img.shields.io/badge/GraphQL-blue?logo=graphql&logoColor=white" alt="Made with GraphQL">
 <img src="https://img.shields.io/badge/React-blue?logo=React&logoColor=white" alt="Made with GraphQL">
@@ -30,7 +30,7 @@ I design and develop interfaces and call myself a frontend designer. I‘m worki
 <br/>
 <img src="https://img.shields.io/badge/ESLint-blue?logo=ESLint&logoColor=white" alt="Made with GraphQL">
 <img src="https://img.shields.io/badge/Webpack-blue?logo=Webpack&logoColor=white" alt="Made with GraphQL">
-<img src="https://img.shields.io/badge/Vite-blue?logo=Vite&logoColor=white" alt="Made with GraphQL">
+<img src="https://img.shields.io/badge/Vite-blue?logo=Vite&logoColor=white" alt="Made with GraphQL" />
 <br/>
 <img src="https://img.shields.io/badge/Sass-blue?logo=Sass&logoColor=white" alt="Made with GraphQL">
 <img src="https://img.shields.io/badge/Less-blue?logo=Less&logoColor=white" alt="Made with GraphQL">
