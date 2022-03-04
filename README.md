@@ -10,7 +10,7 @@
 <!-- <a href="mailto:qle2@hawk.iit.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px" alt="linkedin"></a>
 &nbsp; &nbsp; -->
 </h3>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h3 align="center">🚀 [Backend Developer](https://github.com/SAchu47)  | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <br />
 
 I design and develop interfaces and call myself a frontend designer. I‘m working as a product designer in the last 7 years. My main interest is creating design systems and it’s components — UX guidelines, UI kits and libraries.
