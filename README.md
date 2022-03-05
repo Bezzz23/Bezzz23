@@ -28,6 +28,13 @@ Love beautiful, elegant and user frendly interfaces ♥.
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Redux Saga-blue?logo=Redux-Saga&logoColor=white" alt="Made with GraphQL"></a>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/VueJS-blue?logo=Vue.js&logoColor=white" alt="Made with GraphQL"></a>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Svelte-blue?logo=Svelte&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Ionic-blue?logo=Ionic&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/NestJS-blue?logo=NestJS&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Koa-blue?logo=Koa&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/MongoDB-blue?logo=MongoDB&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/MySQL-blue?logo=MySQL&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Redis-blue?logo=Redis&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/RabbitMQ-blue?logo=RabbitMQ&logoColor=white" alt="Made with GraphQL"></a>
 <br/>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/ESLint-blue?logo=ESLint&logoColor=white" alt="Made with GraphQL"></a>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Webpack-blue?logo=Webpack&logoColor=white" alt="Made with GraphQL"></a>
@@ -45,3 +52,7 @@ Love beautiful, elegant and user frendly interfaces ♥.
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Gitlab-blue?logo=Gitlab&logoColor=white" alt="Made with GraphQL"></a>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket&logoColor=white" alt="Made with GraphQL"></a>
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Heroku-blue?logo=Heroku&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Jira-blue?logo=Jira&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Github-blue?logo=Github&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Figma-blue?logo=Figma&logoColor=white" alt="Made with GraphQL"></a>
+<a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/Sketch-blue?logo=Sketch&logoColor=white" alt="Made with GraphQL"></a>
