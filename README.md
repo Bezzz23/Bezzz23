@@ -10,7 +10,7 @@
 <!-- <a href="mailto:qle2@hawk.iit.edu"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="25px" alt="linkedin"></a>
 &nbsp; &nbsp; -->
 </h3>
-<h3 align="center">🚀 <a href="https://twitter.com/Bezzz23">Frontend Developer</a> | React | Open Source ♥ | <a href="https://twitter.com/Bezzz23">Achivements</a>  🚀</h3>
+<h3 align="center">🚀 VueJS | React | Open Source | Svelte 🚀</h3>
 <br />
 
 I develop interfaces and always focus on best User Experience. I‘m working as a frontend developer in the last 7 years. Winner of the largest Hackathon in Russia with more than 5700 participants.
