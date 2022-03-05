@@ -1,5 +1,4 @@
 <h2 align="center">👋 I'm Mark Bezzub — Frontend Developer</h2>
-<hr />
 <h3 align="center">
 <a href="https://t.me/bezzz23"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="25px" alt="Telegram"></a>
 &nbsp;
