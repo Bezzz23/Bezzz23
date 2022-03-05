@@ -13,7 +13,8 @@
 <h3 align="center">🚀 <a href="https://twitter.com/Bezzz23">Frontend Developer</a> | React | Open Source ♥ | <a href="https://twitter.com/Bezzz23">Achivements</a>  🚀</h3>
 <br />
 
-I design and develop interfaces and call myself a frontend designer. I‘m working as a product designer in the last 7 years. My main interest is creating design systems and it’s components — UX guidelines, UI kits and libraries.
+I develop interfaces and always focus on best User Experience. I‘m working as a frontend developer in the last 7 years. Winner of the largest Hackathon in Russia with more than 5700 participants.
+Love beautiful, elegant and user frendly interfaces ♥.
 
 ## 🛠️ Technologies and Tools:
 <a href="https://graphql.org/" title="Go to GraphQL homepage"><img src="https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white" alt="Made with GraphQL"></a>
